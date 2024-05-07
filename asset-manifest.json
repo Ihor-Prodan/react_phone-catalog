@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "./static/css/main.8bebfac2.css",
-    "main.js": "./static/js/main.24d7525a.js",
+    "main.css": "./static/css/main.3e8cd2cb.css",
+    "main.js": "./static/js/main.8a2b9908.js",
     "static/media/load.mp4": "./static/media/load.a2050e3c5505ab0200dd.mp4",
     "static/media/slide1.png": "./static/media/slide1.f7a630cce884458211e4.png",
     "static/media/Banner.png": "./static/media/Banner.d080f88f66ab197d7bf7.png",
     "static/media/tablets.png": "./static/media/tablets.3aa4660b88eb1758c8da.png",
+    "static/media/product-not-found.png": "./static/media/product-not-found.8214da88616b09290166.png",
     "static/media/phone.png": "./static/media/phone.a67f46e283f1e6c95505.png",
     "static/media/banner3.jpeg": "./static/media/banner3.aa503da61dd1cc4af213.jpeg",
     "static/media/accesories.png": "./static/media/accesories.1a5a48017097e0c4673a.png",
     "static/media/page-not-found.png": "./static/media/page-not-found.6f5b123471bc09721371.png",
+    "static/media/cart-is-empty.png": "./static/media/cart-is-empty.86ebaf664449a2f61e5e.png",
     "index.html": "./index.html",
-    "main.8bebfac2.css.map": "./static/css/main.8bebfac2.css.map",
-    "main.24d7525a.js.map": "./static/js/main.24d7525a.js.map"
+    "main.3e8cd2cb.css.map": "./static/css/main.3e8cd2cb.css.map",
+    "main.8a2b9908.js.map": "./static/js/main.8a2b9908.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bebfac2.css",
-    "static/js/main.24d7525a.js"
+    "static/css/main.3e8cd2cb.css",
+    "static/js/main.8a2b9908.js"
   ]
 }
